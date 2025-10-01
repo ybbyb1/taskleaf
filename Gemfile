@@ -38,7 +38,8 @@ gem "kamal", require: false
 gem "thruster", require: false
 gem "html2slim", github: "slim-template/html2slim"
 gem "bootstrap"
-
+gem "cssbundling-rails"
+gem "slim-rails"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
